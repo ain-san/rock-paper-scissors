@@ -1,7 +1,7 @@
 import random
 import datetime
 import sys
-
+あああああ
 class Janken:
 
  
